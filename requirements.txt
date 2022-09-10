@@ -1,0 +1,6 @@
+djangorestframework
+PyJWT
+cryptography
+psycopg2-binary
+Django
+bcrypt
