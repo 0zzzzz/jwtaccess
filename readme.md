@@ -14,10 +14,10 @@ ___
 ## API эндпойнты:
 
 
-http://localhost:8077/api/token/ -- выдает пару ключей Access и Refresh ключей для пользователя с идендтификатором
-http://localhost:8077/api/token/refresh/ -- обновление пары токенов путём ввода Refresh токена
+### http://localhost:8077/api/token/ -- выдает пару ключей Access и Refresh ключей для пользователя с идендтификатором
+### http://localhost:8077/api/token/refresh/ -- обновление пары токенов путём ввода Refresh токена
 
-
+## HEADER_TYPES: 'Bearer'
 http://localhost:8077/auth/api/user_create/
 * GET вывести всех пользователей из базы 
 * POST зарегестрировать пользователя
